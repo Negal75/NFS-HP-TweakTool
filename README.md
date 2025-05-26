@@ -31,10 +31,6 @@ This Python application provides a user-friendly graphical interface for modifyi
 3. Click the "Save Configuration" button.
 4. The `config.NFS11Save` file in your Need for Speed: Hot Pursuit directory will be updated.  **Important: Back up your original `config.NFS11Save` file before making changes!**
 
-C:\Users\Admin\Documents\Criterion Games\Need for Speed(TM) Hot Pursuit\config.NFS11Save
-
-**Note:**  This path is hardcoded in the application.  Consider adding a setting to allow users to specify the config file path in a future version.
-
 ## Contributing
 
 Contributions are welcome!  If you find a bug or have a suggestion for improvement, please open an issue or submit a pull request.
