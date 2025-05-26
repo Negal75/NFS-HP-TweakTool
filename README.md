@@ -1,6 +1,6 @@
 # NFS: Hot Pursuit Configurator
 
-[![Screenshot of the Configurator](https://i.imgur.com/YOUR_SCREENSHOT_HERE.png)](https://github.com/YOUR_USERNAME/NFS-Hot-Pursuit-Configurator)
+[![Screenshot of the Configurator](https://github.com/Negal75/NFS-HP-TweakTool/blob/main/screenshot.jpg?raw=true)](https://github.com/YOUR_USERNAME/NFS-Hot-Pursuit-Configurator)
 
 ## Description
 
